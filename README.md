@@ -4,7 +4,7 @@ Template for Python projects.
 ---
 
 ## Prerequisites:
-- [Python](https://www.python.org/downloads/)
+- [Python 3.8.10](https://www.python.org/downloads/release/python-3810/)
 
 ## How to install:
 ```bash
