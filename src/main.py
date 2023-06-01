@@ -20,7 +20,7 @@ def clearConsole() -> None:  # ? Clear console
 
 
 def main() -> None:
-    pass
+    print(f"[{title}#main] test", test)
 
 
 #! Main
