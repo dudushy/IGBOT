@@ -1,5 +1,5 @@
-# [template-python](https://github.com/dudushy/template-python/)
-Template for Python projects.
+# [IGBOT](https://github.com/dudushy/IGBOT/)
+Instagram BOT.
 
 ---
 
