@@ -46,7 +46,7 @@ def main() -> None:
     test()
 
     driver.get("https://www.instagram.com/")
-    # elem = driver.find_element(By.NAME, "q")
+    elem = driver.find_element(By.XPATH, '//*[@id="loginForm"]/div/div[1]/div/label/input')
     # elem.clear()
     # elem.send_keys("pycon")
     # elem.send_keys(Keys.RETURN)
